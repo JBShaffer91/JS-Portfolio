@@ -1,0 +1,23 @@
+/* navbar */
+.navbar {
+    background-color: #000000;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+    font-family: Montserrat, sans-serif;
+}
+
+a {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #00e1ff !important;
+    background-color: #000000 !important;
+}
+
+.container {
+    padding: 80px 120px;
+}
