@@ -21,3 +21,12 @@ a {
 .container {
     padding: 80px 120px;
 }
+
+.col {
+    text-align: center;
+    margin: 25px 0;
+}
+
+.row {
+    margin: 0 -15px;
+}
