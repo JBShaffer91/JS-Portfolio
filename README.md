@@ -1,4 +1,4 @@
-# J. Shaffer Portfolio Page
+# J. Shaffer Portfolio
 
 #### By Justin Shaffer
 
