@@ -28,7 +28,7 @@ git commit -m "message goes here"
 git clone https://github.com/JBShaffer91/JS-Portfolio
 code . (to open in Visual Studio Code)
 
-_Following the above steps will bring this code into your VS Code. If the purpose of cloning this file is to use it as a template, I have no issue with that. All that's asked of you is to put in the effort and make it your own. Do not pretend to have written code that you did not write. Everything is documented and timestamped.
+_Following the above steps will bring this code into your VS Code. If the purpose of cloning this file is to use it as a template, I have no issue with that. All that's asked of you is to put in the effort and make it your own. Do not pretend to have written code that you did not write._
 
 ## Known Bugs
 

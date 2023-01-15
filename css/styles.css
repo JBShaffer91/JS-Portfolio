@@ -4,6 +4,7 @@ body {
     color: #000000;
 }
 
+
 .navbar {
     background-color: #000000;
     border: 0;
@@ -29,12 +30,19 @@ a {
 
 .row {
     margin: 0 -15px;
-    list-style-type: none;
 }
 
 img {
   width: 100%;
   height: auto;
+}
+
+#profile-pic {
+    width: 50%;
+    min-width: 200px;
+    max-width: 300px;
+    margin: 0 auto;
+    display: block;
 }
 
 .box {
@@ -45,5 +53,5 @@ img {
     padding: 20px;
     border: solid 2px #000000;
     box-sizing: border-box;
-    }
 }
+
